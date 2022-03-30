@@ -5,7 +5,7 @@ An introduction to data visualization in Python.
 Relevant links:
 
 - [HTML write-up of tutorial](https://seantrott.github.io/data_visualization_python/).
-- [Slides version of tutorial](https://seantrott.github.io/data_visualization_python/Trott_visualization.slides.html)
+- [Slides version of tutorial](https://seantrott.github.io/data_visualization_python/slides.html)
 
 The GitHub itself also contains the raw Jupyter notebook, to work with interactively.
 
